@@ -46,7 +46,7 @@
     "angular-moment-picker": "^0.10.2",
     "angularx-social-login": "^1.2.6",
     "core-js": "^3.0.1",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.19",
     "describe": "^1.2.0",
     "express": "^4.16.4",
